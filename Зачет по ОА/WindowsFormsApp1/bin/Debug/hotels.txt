@@ -1,0 +1,4 @@
+1;1;Rivas;2000
+2;3;Sonesta;1600
+3;2;Marina;1800
+4;4;ParkHotel;2100
